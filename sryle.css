@@ -1,0 +1,164 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: #E5E5E5;
+    margin: 0;
+    padding: 0;
+    font-family: Promt;
+    
+}
+
+.header{
+    
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    margin-top: 2.08vw;
+    font-size: 16px;
+}
+
+.container{
+    font-size: 16px;
+}
+
+
+a{
+    padding-right: 2.96875vw;    
+}
+
+.text-about{
+    width:20.625VW;
+    height: 13.22916vw;
+    margin-right: 5.989vw;
+    margin-left: 22.34375vw;
+
+}
+
+.text-about h1{
+    font-size: 52px;
+}
+
+.text-about p{
+    font-size: 20px;
+    margin-top: 1.66vw;
+}
+
+.main-food{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3.802vw;
+}
+
+.img-food{
+    width: 32.135416666666664VW;
+    
+    margin-right: 19.3229vw;
+
+}
+
+.text-zag{
+    font-size: 1.041vw;
+    color: #FF5F33;
+
+    margin-top: 3.958vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-podzag{
+    margin: 0;
+    /* margin-top: 8px; */
+    font-size: 2.083vw;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.food-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+.main-cont{
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    background: white;
+    width: 1200px;
+    height: 600px;
+}
+
+.table-food{
+    margin-top: 60px;
+    padding-left: 20px;
+    width: 331px;
+    height: 491px;
+}
+
+/* .table-food img{
+    width: 150px;
+} */
+
+
+
+.backpack{
+    margin-top: 55px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.two{
+    width: 28.6458vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tablet{
+    width: 6.25VW;
+    height: 7.291vw;
+    border-radius: 20px 0 20px 0;
+    margin-right: 10px;
+    margin-top: 10px;
+    background: white;
+    display: flex;
+    width: 13.4375VW;
+    height: 14.4791vw;
+}
+
+.text-tabletka{
+    margin-top: 5px;
+    margin-left: 1.30vw;
+}
+
+.tablet h3{
+    font-size: 1.04vw;
+}
+
+.tablet p{
+    font-size: 0.83vw;
+}
+.ph-tabletka{
+    display: flex;
+    align-self: flex-end;
+}
+
+#backpacks{
+    margin-right: 4.58vw;
+}
+
+
+
